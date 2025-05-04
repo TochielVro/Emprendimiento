@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "nombre": "Tienda Orgánica Vida Verde",
+      "descripcion": "Frutas, verduras y productos ecológicos.",
+      "imagen": "assets/img/organico.jpeg"
+    },
+    {
+      "id": 2,
+      "nombre": "Pastelería Dulce Encanto",
+      "descripcion": "Repostería artesanal y pasteles por pedido.",
+      "imagen": "assets/img/pasteleria.jpeg"
+    },
+    {
+      "id": 3,
+      "nombre": "Artesanías Manos Creativas",
+      "descripcion": "Productos hechos a mano con amor.",
+      "imagen": "assets/img/Artesania1.jpeg"
+    }
+  ]
+  
