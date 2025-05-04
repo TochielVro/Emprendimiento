@@ -16,6 +16,24 @@
       "nombre": "Artesanías Manos Creativas",
       "descripcion": "Productos hechos a mano con amor.",
       "imagen": "assets/img/Artesania1.jpeg"
+    },
+    {
+      "id": 4,
+      "nombre": "Café Aroma Natural",
+      "descripcion": "Café orgánico de la región.",
+      "imagen": "assets/img/cafe.JPG"
+    },
+    {
+      "id": 5,
+      "nombre": "Ropa Ecológica EcoFashion",
+      "descripcion": "Ropa hecha con materiales reciclados.",
+      "imagen": "assets/img/ropa.jpeg"
+    },
+    {
+      "id": 6,
+      "nombre": "Joyería Artesanal Brillo Natural",
+      "descripcion": "Joyas únicas hechas a mano.",
+      "imagen": "assets/img/joyas.jpeg"
     }
   ]
   
